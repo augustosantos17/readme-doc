@@ -37,3 +37,8 @@ Iremos apresentar menu como tabela de conteúdo, tecnologias, badges entre outro
 <p id="mapa"></p>
 
 ## Mapa do Projeto
+
+```.
+├───image
+└───temp
+```
